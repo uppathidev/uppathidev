@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/reddyuppathi)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/reddy-uppathi)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/angularcode/)&nbsp;
-[![Hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/popvictoria73)&nbsp;
+[![Hackerrank](https://img.shields.io/badge/-HackerRank-3a424f?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/uppathidev)&nbsp;
 
 ### Languages and Tools:
 
