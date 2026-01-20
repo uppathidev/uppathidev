@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
-- 💬 Ask me about **Angular, Node , React , HTML5 , CSS3 , Tailwind, SCSS, Redux**
+- 💬 Ask me about **Angular, Node JS , React / React Native , HTML5 , CSS3 , Tailwind, SCSS, Redux**
 
 - 📄 Know about my experiences @ [profile](https://uppathidev.github.io/assets/Reddy_FullStack_9+Years_Exp.pdf)
 
