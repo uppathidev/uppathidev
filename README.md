@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
-- 💬 Ask me about **Angular, Node JS , React / React Native , HTML5 , CSS3 , Tailwind, SCSS, Redux**
+- 💬 Ask me about **React / React Native , Mono Repo,  Angular, Node JS , HTML5 , CSS3 , Tailwind, SCSS, Redux**
 
-- 📄 Know about my experiences @ [profile](https://uppathidev.github.io/assets/Reddy_FullStack_9+Years_Exp.pdf)
+- 📄 Know about my experiences 👉 [Profile](https://uppathidev.github.io)
 
 - ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Long run, Yoga Practices, Swimming.**
 
@@ -22,10 +22,10 @@
 
 ### Languages and Tools:
 
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![🧠 AI](https://img.shields.io/badge/-🧠%20AI-0A0A0A?style=flat)&nbsp;
 ![🤖 Gen AI](https://img.shields.io/badge/-🤖%20Generative%20AI-1f1f1f?style=flat)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
