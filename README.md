@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Reddy
 
 ## A passionate full stack developer
-- 🌱 I’m currently learning **AI, GenAI, Agents, AWS**
+- 🌱 I’m currently learning **AI, GenAI, Agents, Models and AWS**
 
 - 👨‍💻 All of my projects are available at [uppathidev.github.io](https://uppathidev.github.io/)
 
