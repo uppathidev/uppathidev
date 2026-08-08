@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Reddy
 
 ## A passionate full stack developer
-- 🌱 I’m currently learning **AI, GenAI, Agents, Models and AWS**
+- 🌱 I’m actively exploring **AI & GenAI, RAG, MCP, AI Agents, AWS and Cloud**
 
 - 👨‍💻 All of my projects are available at [uppathidev.github.io](https://uppathidev.github.io/)
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
-- 💬 Ask me about **React / React Native , Mono Repo,  Angular, Node JS , HTML5 , CSS3 , Tailwind, SCSS, Redux**
+- 💬 Ask me about **AI & GenAI, RAG, MCP, AI Agents, Full-Stack Development, Angular, React, React Native, Node.js, Cloud & Scalable Systems**
 
 - 📄 Know about my experiences 👉 [Profile](https://uppathidev.github.io)
 
